@@ -2,19 +2,18 @@
   <folder name="css">
     <file name="site_global.css" crc="4220267673"/>
     <file name="master_a-master.css" crc="4184080488" ref="index"/>
-    <file name="index.css" crc="277464653" ref="index"/>
-    <file name="iefonts_index.css" crc="4031057780" ref="index"/>
+    <file name="index.css" crc="4134833617" ref="index"/>
+    <file name="iefonts_index.css" crc="4280722053" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="w20174(1).pdf" crc="391060032" mt="1519851324000"/>
-    <file name="gasexpobw2009.png" crc="3989079700" mt="1425859013000"/>
-    <file name="re2expobw2003.png" crc="41741827" mt="1425859374000"/>
-    <file name="branchexposuretohurricanesbw.png" crc="301881043" mt="1425862351000"/>
     <file name="anscestry.png" crc="39688265" mt="1425863408000"/>
-    <file name="convergence.png" crc="3848332272" mt="1425864023000"/>
     <file name="lorie.png" crc="431795521" mt="1425873764000"/>
-    <file name="ivanpetkovcv.pdf" crc="3995191278" mt="1426200263000"/>
-    <file name="bankbranchnetworkexternalitiesv3.pdf" crc="4056974519" mt="1508283546000"/>
+    <file name="floodsurprisespopulation.pdf" crc="56865161" mt="1522869714000"/>
+    <file name="petkov_sblnetowrk.pdf" crc="4056974519" mt="1508283546000"/>
+    <file name="gr3.png" crc="3944361264" mt="1522876912000"/>
+    <file name="fig2.png" crc="384738899" mt="1522877957000"/>
+    <file name="att_evol.pdf" crc="391060032" mt="1519851324000"/>
+    <file name="ivanpetkovcv_neu.pdf" crc="3853132877" mt="1520009593000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
@@ -24,13 +23,12 @@
     <file name="jquery.watch.js" crc="4199601726" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="ivan petkov.png" crc="4048179530" ref="index"/>
+    <file name="2017-10-07-lorie and ivans engagement-59.png" crc="4260634376" ref="index"/>
     <file name="1375208219_up-arrow.png" crc="64360307" ref="index"/>
-    <file name="gasexpobw2009-u7298.jpg" crc="311381945" ref="index"/>
-    <file name="re2expobw2003-u7304.jpg" crc="3864048308" ref="index"/>
-    <file name="branchexposuretohurricanesbw.jpg" crc="4168622425" ref="index"/>
-    <file name="anscestry.jpg" crc="3897072353" ref="index"/>
-    <file name="convergence.jpg" crc="3907502943" ref="index"/>
+    <file name="gr3.jpg" crc="4278640176" ref="index"/>
+    <file name="fig2.jpg" crc="3913061418" ref="index"/>
+    <file name="anscestry.jpg" crc="164631628" ref="index"/>
+    <file name="scattercombine.jpg" crc="75026267" ref="index"/>
   </folder>
-  <file name="index.html" crc="4246406179" mt="1426891492287" redirect="true"/>
+  <file name="index.html" crc="4060356585" mt="1522879856594" redirect="true"/>
 </manifest>
