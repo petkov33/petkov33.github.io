@@ -14,6 +14,7 @@
     <file name="fig2.png" crc="384738899" mt="1522877957000"/>
     <file name="att_evol.pdf" crc="391060032" mt="1519851324000"/>
     <file name="ivanpetkovcv_neu.pdf" crc="3853132877" mt="1520009593000"/>
+    <file name="fps_ancestry.pdf" crc="436303906" mt="1519747915000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
@@ -30,5 +31,5 @@
     <file name="anscestry.jpg" crc="164631628" ref="index"/>
     <file name="scattercombine.jpg" crc="75026267" ref="index"/>
   </folder>
-  <file name="index.html" crc="4261269930" mt="1522977347174" redirect="true"/>
+  <file name="index.html" crc="1669662" mt="1522977487537" redirect="true"/>
 </manifest>
