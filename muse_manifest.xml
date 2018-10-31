@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="4220267673"/>
     <file name="master_a-master.css" crc="4184080488" ref="index"/>
-    <file name="index.css" crc="4134833617" ref="index"/>
+    <file name="index.css" crc="103874846" ref="index"/>
     <file name="iefonts_index.css" crc="4280722053" ref="index"/>
   </folder>
   <folder name="assets">
@@ -31,5 +31,5 @@
     <file name="anscestry.jpg" crc="164631628" ref="index"/>
     <file name="scattercombine.jpg" crc="75026267" ref="index"/>
   </folder>
-  <file name="index.html" crc="1669662" mt="1522977487537" redirect="true"/>
+  <file name="index.html" crc="4285018485" mt="1541010031757" redirect="true"/>
 </manifest>
