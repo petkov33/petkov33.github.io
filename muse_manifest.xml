@@ -2,8 +2,8 @@
   <folder name="css">
     <file name="site_global.css" crc="4220267673"/>
     <file name="master_a-master.css" crc="4184080488" ref="index"/>
-    <file name="index.css" crc="157328325" ref="index"/>
-    <file name="iefonts_index.css" crc="3809980918" ref="index"/>
+    <file name="index.css" crc="441547508" ref="index"/>
+    <file name="iefonts_index.css" crc="232554225" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="anscestry.png" crc="39688265" mt="1425863408000"/>
@@ -13,9 +13,19 @@
     <file name="gr3.png" crc="3944361264" mt="1522876912000"/>
     <file name="fig2.png" crc="384738899" mt="1522877957000"/>
     <file name="att_evol.pdf" crc="391060032" mt="1519851324000"/>
-    <file name="ivanpetkovcv_neu.pdf" crc="3853132877" mt="1520009593000"/>
     <file name="fps_ancestry.pdf" crc="436303906" mt="1519747915000"/>
     <file name="risk.jpg" crc="229788427" mt="1618254107000"/>
+    <file name="gr2.pdf" crc="4091469954" mt="1518757111000"/>
+    <file name="gr2.jpg" crc="4249316570" mt="1654801969000"/>
+    <file name="ancestry-diversity-and-investment-in-hazard-mitigation-november-18-2021.pdf" crc="4009646509" mt="1648480741000"/>
+    <file name="petkov--22---edcc---weather-shocks-and-expectations-v2.pdf" crc="3865262181" mt="1651095313000"/>
+    <file name="fps_ancestry_3-22-2018.pdf" crc="319185329" mt="1522091066000"/>
+    <file name="fps_ancestry_demography_4-04-2022.pdf" crc="4077678887" mt="1649710197000"/>
+    <file name="local-finance-and-recovery-from-hurricanes-februrary-2022.pdf" crc="314381432" mt="1647265728000"/>
+    <file name="comprehensive-cv.pdf" crc="138846462" mt="1654784780000"/>
+    <file name="diversity.png" crc="4185593804" mt="1654807105000"/>
+    <file name="businesses.png" crc="3776069689" mt="1654808245000"/>
+    <file name="fracking.png" crc="3836832178" mt="1654809149000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
@@ -27,10 +37,14 @@
   <folder name="images">
     <file name="2017-10-07-lorie and ivans engagement-59.png" crc="4260634376" ref="index"/>
     <file name="1375208219_up-arrow.png" crc="64360307" ref="index"/>
-    <file name="fig2.jpg" crc="3913061418" ref="index"/>
     <file name="anscestry.jpg" crc="164631628" ref="index"/>
     <file name="scattercombine.jpg" crc="75026267" ref="index"/>
     <file name="risk.jpg" crc="4013877496" ref="index"/>
+    <file name="gr2.jpg" crc="3819969890" ref="index"/>
+    <file name="diversity.jpg" crc="3798168567" ref="index"/>
+    <file name="businesses.jpg" crc="4042134671" ref="index"/>
+    <file name="fracking.jpg" crc="4040956990" ref="index"/>
+    <file name="hpi.jpg" crc="4209882126" ref="index"/>
   </folder>
-  <file name="index.html" crc="323796522" mt="1654801183459" redirect="true"/>
+  <file name="index.html" crc="4073719619" mt="1654810587306" redirect="true"/>
 </manifest>

@@ -43,12 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://petkov33.github.io/assets/ivanpetkovcv_neu.pdf</loc>
-    <lastmod>2018-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://petkov33.github.io/assets/fps_ancestry.pdf</loc>
     <lastmod>2018-02-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -61,6 +55,72 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://petkov33.github.io/assets/gr2.pdf</loc>
+    <lastmod>2018-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/gr2.jpg</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/ancestry-diversity-and-investment-in-hazard-mitigation-november-18-2021.pdf</loc>
+    <lastmod>2022-03-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/petkov--22---edcc---weather-shocks-and-expectations-v2.pdf</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/fps_ancestry_3-22-2018.pdf</loc>
+    <lastmod>2018-03-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/fps_ancestry_demography_4-04-2022.pdf</loc>
+    <lastmod>2022-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/local-finance-and-recovery-from-hurricanes-februrary-2022.pdf</loc>
+    <lastmod>2022-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/comprehensive-cv.pdf</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/diversity.png</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/businesses.png</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/assets/fracking.png</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://petkov33.github.io/images/2017-10-07-lorie%20and%20ivans%20engagement-59.png</loc>
     <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -68,12 +128,6 @@
   </url>
   <url>
     <loc>https://petkov33.github.io/images/1375208219_up-arrow.png</loc>
-    <lastmod>2022-06-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://petkov33.github.io/images/fig2.jpg</loc>
     <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -92,6 +146,36 @@
   </url>
   <url>
     <loc>https://petkov33.github.io/images/risk.jpg</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/images/gr2.jpg</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/images/diversity.jpg</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/images/businesses.jpg</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/images/fracking.jpg</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/images/hpi.jpg</loc>
     <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
