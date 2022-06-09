@@ -55,6 +55,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://petkov33.github.io/assets/risk.jpg</loc>
+    <lastmod>2021-04-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://petkov33.github.io/images/2017-10-07-lorie%20and%20ivans%20engagement-59.png</loc>
     <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,12 +68,6 @@
   </url>
   <url>
     <loc>https://petkov33.github.io/images/1375208219_up-arrow.png</loc>
-    <lastmod>2022-06-09</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://petkov33.github.io/images/gr3.jpg</loc>
     <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -86,6 +86,12 @@
   </url>
   <url>
     <loc>https://petkov33.github.io/images/scattercombine.jpg</loc>
+    <lastmod>2022-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://petkov33.github.io/images/risk.jpg</loc>
     <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
