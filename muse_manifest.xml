@@ -1,9 +1,8 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="4220267673"/>
+    <file name="site_global.css" crc="242520398"/>
     <file name="master_a-master.css" crc="4184080488" ref="index"/>
-    <file name="index.css" crc="441547508" ref="index"/>
-    <file name="iefonts_index.css" crc="232554225" ref="index"/>
+    <file name="index.css" crc="4118488082" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="anscestry.png" crc="39688265" mt="1425863408000"/>
@@ -21,11 +20,13 @@
     <file name="petkov--22---edcc---weather-shocks-and-expectations-v2.pdf" crc="3865262181" mt="1651095313000"/>
     <file name="fps_ancestry_3-22-2018.pdf" crc="319185329" mt="1522091066000"/>
     <file name="fps_ancestry_demography_4-04-2022.pdf" crc="4077678887" mt="1649710197000"/>
-    <file name="local-finance-and-recovery-from-hurricanes-februrary-2022.pdf" crc="314381432" mt="1647265728000"/>
-    <file name="comprehensive-cv.pdf" crc="138846462" mt="1654784780000"/>
+    <file name="local-finance-and-recovery-from-hurricanes-februrary-2022.pdf" crc="335999375" mt="1662565434000"/>
+    <file name="comprehensive-cv.pdf" crc="4096538008" mt="1664820275000"/>
     <file name="diversity.png" crc="4185593804" mt="1654807105000"/>
     <file name="businesses.png" crc="3776069689" mt="1654808245000"/>
     <file name="fracking.png" crc="3836832178" mt="1654809149000"/>
+    <file name="hmda1.png" crc="4185557791" mt="1668005268000"/>
+    <file name="hmda2.png" crc="4120415316" mt="1668005284000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
@@ -42,9 +43,11 @@
     <file name="risk.jpg" crc="4013877496" ref="index"/>
     <file name="gr2.jpg" crc="3819969890" ref="index"/>
     <file name="diversity.jpg" crc="3798168567" ref="index"/>
-    <file name="businesses.jpg" crc="4042134671" ref="index"/>
     <file name="fracking.jpg" crc="4040956990" ref="index"/>
     <file name="hpi.jpg" crc="4209882126" ref="index"/>
+    <file name="high local finance - quarterly event study, all industries-1.jpg" crc="429683695" ref="index"/>
+    <file name="hmda1.jpg" crc="120897021" ref="index"/>
+    <file name="hmda2.jpg" crc="3904490496" ref="index"/>
   </folder>
-  <file name="index.html" crc="4073719619" mt="1654810587306" redirect="true"/>
+  <file name="index.html" crc="3957924491" mt="1668006647357" redirect="true"/>
 </manifest>

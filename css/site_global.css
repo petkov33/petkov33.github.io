@@ -155,28 +155,14 @@ a.nontext /* used to override default properties of 'a' tag */
 .Main-Heading
 {
 	color: #959191;
-	font-family: maven-pro, sans-serif;
 	font-size: 48px;
-	font-weight: 400;
-	padding: 0px;
-}
-
-.Sub-Main-Heading
-{
-	color: #757272;
-	font-family: maven-pro, sans-serif;
-	font-size: 24px;
-	font-weight: 700;
-	text-align: left;
 	padding: 0px;
 }
 
 .sub-heading-to-H2
 {
 	color: #959191;
-	font-family: maven-pro, sans-serif;
 	font-size: 24px;
-	font-weight: 400;
 	text-align: left;
 	padding: 0px;
 }
@@ -184,19 +170,15 @@ a.nontext /* used to override default properties of 'a' tag */
 .Paragraph-Heading
 {
 	color: #757272;
-	font-family: maven-pro, sans-serif;
 	font-size: 18px;
-	font-weight: 700;
 	text-align: left;
 	padding: 0px;
 }
 
-.Heading-to-Paragraph
+.Sub-Main-Heading,.Heading-to-Paragraph
 {
 	color: #757272;
-	font-family: maven-pro, sans-serif;
 	font-size: 24px;
-	font-weight: 400;
 	text-align: left;
 	padding: 0px;
 }
