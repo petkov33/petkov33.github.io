@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="242520398"/>
     <file name="master_a-master.css" crc="4184080488" ref="index"/>
-    <file name="index.css" crc="4118488082" ref="index"/>
+    <file name="index.css" crc="118936202" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="anscestry.png" crc="39688265" mt="1425863408000"/>
@@ -27,6 +27,11 @@
     <file name="fracking.png" crc="3836832178" mt="1654809149000"/>
     <file name="hmda1.png" crc="4185557791" mt="1668005268000"/>
     <file name="hmda2.png" crc="4120415316" mt="1668005284000"/>
+    <file name="employment-growth,-migration-rate,-and-ethnic-similarity-1.png" crc="520558060" mt="1668091168000"/>
+    <file name="high-local-finance---quarterly-event-study,-all-industries-1.png" crc="239870312" mt="1668002808000"/>
+    <file name="sbl-and-branch-network-jfs-revision-2nd.pdf" crc="4321627" mt="1664220534000"/>
+    <file name="loadings---time-series-overall-1.png" crc="4055702599" mt="1668093093000"/>
+    <file name="loadings---time-series-by-risk-groups-1.png" crc="4179750841" mt="1668093075000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index"/>
@@ -48,6 +53,9 @@
     <file name="high local finance - quarterly event study, all industries-1.jpg" crc="429683695" ref="index"/>
     <file name="hmda1.jpg" crc="120897021" ref="index"/>
     <file name="hmda2.jpg" crc="3904490496" ref="index"/>
+    <file name="employment growth, migration rate, and ethnic similarity-1.jpg" crc="4096244152" ref="index"/>
+    <file name="loadings - time series overall-1.jpg" crc="4213937059" ref="index"/>
+    <file name="loadings - time series by risk groups-1.jpg" crc="446332269" ref="index"/>
   </folder>
-  <file name="index.html" crc="3957924491" mt="1668006647357" redirect="true"/>
+  <file name="index.html" crc="3797928438" mt="1668093849424" redirect="true"/>
 </manifest>
